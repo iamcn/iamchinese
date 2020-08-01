@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="我是中国人，我永远热爱我的祖国！">
+    <meta name="keywords" content="iamchinese">
+    <title>我是中国人，我永远热爱我的祖国</title>
+    <style>
+        html,body{margin: 0;}
+        div{
+            font-family: Arial, Helvetica, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            opacity: 0;
+        }
+    </style>
+</head>
+<body>
+    <div id="chinese"></div>
+</body>
+<script language="javascript">
+    let iamchinese=["我是中国人，我永远热爱我的祖国<br/>我是中國人，我永遠熱愛我的祖國","I am Chinese and I love my motherland forever","Ich bin Chinese, ich liebe mein Mutterland","Je suis chinois, j 'aime mon pays","я китаец, я всегда люблю свою родину","Yo soy chino y siempre amaré a mi país","私は中国人です。いつまでも祖国を愛しています"," أنا الصينية ، أنا أحب بلدي إلى الأبد","나 는 중국 사람 입 니 다. 나 는 영원히 나의 조국 을 사랑 합 니 다","Eu sou chinês e sempre amarei minha pátria"],i=-1;;
+    function replacet(){
+        chinese.innerHTML=iamchinese[i<9?++i:i=0];
+        let m=0,st=setInterval(function(){
+            chinese.style.opacity=++m/10;
+            if(m>=10){clearInterval(st)};
+        },50);
+        setTimeout(function(){
+            let m=10,st=setInterval(function(){
+                chinese.style.opacity=--m/10;
+                if(m<=0){clearInterval(st)};
+            },50);
+                setTimeout("replacet()",800);
+        },1800);
+    }
+    replacet();
+</script>
+</html>
