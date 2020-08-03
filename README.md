@@ -6,4 +6,4 @@
 * [loveprc.cn](https://loveprc.cn)
 * [iamchinese.hk.cn](https://iamchinese.hk.cn)
 * [iamchinese.tw.cn](https://iamchinese.tw.cn)
-* [guanyoutechnology.top](http://www.guanyoutechnology.top)
+* [guanyoutechnology.top](https://www.guanyoutechnology.top)
