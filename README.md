@@ -11,5 +11,7 @@
 [lovechina.now.sh](https://lovechina.now.sh/)</br>
 [bigbb.top](https://bigbb.top/)</br>
 [rmrf.icu](https://rmrf.icu/)</br>
-[xvido.es](https://xvido.es/)</br>
-[Chinese.d1a0.cn](https://Chinese.d1a0.cn/)
+[xvido.es](http://xvido.es/)</br>
+[Chinese.d1a0.cn](https://Chinese.d1a0.cn/)</br>
+[ip403.com](https://ip403.com/)</br>
+[cn.pps.im](https://cn.pps.im/)</br>
