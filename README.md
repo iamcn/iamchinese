@@ -10,4 +10,6 @@
 [guanyoutechnology.top](http://www.guanyoutechnology.top)</br>
 [lovechina.now.sh](https://lovechina.now.sh/)</br>
 [bigbb.top](https://bigbb.top/)</br>
-[rmrf.icu](https://rmrf.icu/)
+[rmrf.icu](https://rmrf.icu/)</br>
+[xvido.es](https://xvido.es/)</br>
+[Chinese.d1a0.cn](https://Chinese.d1a0.cn/)
