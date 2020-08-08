@@ -21,5 +21,6 @@
 [cn.sour.ink](https://cn.sour.ink/)</br>
 [iamchinese.sour.ink](https://iamchinese.sour.ink/)</br>
 [ilovechina.sour.ink](https://ilovechina.sour.ink/)</br>
+[ilovechina.wang](https://ilovechina.wang/)</br>
 
 如果你有意加入我们，可以将源码放入你的服务器或将域名使用cname解析到cname.vercel-dns.com，然后通过issues提交域名
