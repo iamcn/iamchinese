@@ -1,0 +1,77 @@
+@font-face {
+    font-family: "HASM";
+    src: url("https://cdn.jsdelivr.net/gh/iamcn/iamchinese@2.0/MenkQagan_S.ttf") format("truetype");
+}
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(33deg, #23074d, #cc5333);
+}
+body{
+    margin: 0;
+    color: white;
+}
+#main{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+#main>span{
+    display: -webkit-flex; /* Safari */
+    display: flex;
+    flex: none;
+    font-size: 3.3vw;
+    margin: 0.3vw 0;
+}
+.ZNs{
+    font-size: 6.6vw !important;
+    margin: 1vw 0 !important;
+}
+
+.meng{
+    font-family: HASM;
+    -webkit-writing-mode: vertical-lr;
+    -moz-writing-mode: vertical-lr;
+    -o-writing-mode: vertical-lr;
+    -ms-writing-mode: tb-lr;
+    writing-mode: vertical-lr;
+    text-orientation: sideways-right;
+    -webkit-text-orientation: sideways-right;
+}
+
+.ZNt, .EN{
+    opacity: 0.9;
+}
+.wei, .FR{
+    opacity: 0.8;
+}
+.zhuang, .RU{
+    opacity: 0.7;
+}
+.zang, .ES{
+    opacity: 0.6;
+}
+.meng, .AR{
+    opacity: 0.5;
+}
+.chao, .PT{
+    opacity: 0.4;
+}
+.yi, .HI{
+    opacity: 0.3;
+}
+.JP{
+    opacity: 0.2;
+}
+
+/*横屏*/
+@media screen and (orientation: landscape){
+    #main>span{
+        font-size: 1.5vw;
+    }
+    .ZNs{
+        font-size: 3.5vw !important;
+    }
+}
