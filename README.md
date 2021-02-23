@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<b>可以从以下网址访问本站｜可以從以下網址訪問本站</b>
+<b>您可以从以下网址访问本站</b>
 
 [iamchinese.cn](https://iamchinese.cn)</br>
 [iloveprc.cn](https://iloveprc.cn)</br>
@@ -29,5 +27,3 @@
 [cn.sishuiliunian.cool](https://cn.sishuiliunian.cool/)</br>
 [china.liubaoyuan.fun](https://china.liubaoyuan.fun/)</br>
 [zuowenzhitiao.cool](https://zuowenzhitiao.cool/)</br>
-
-如果你有意加入我们，可以将源码放入你的服务器或将域名使用cname解析到cname.vercel-dns.com，然后通过issues提交域名
