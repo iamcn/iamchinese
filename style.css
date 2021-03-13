@@ -39,6 +39,7 @@ body{
     writing-mode: vertical-lr;
     text-orientation: sideways-right;
     -webkit-text-orientation: sideways-right;
+    width: fit-content;
 }
 
 .ZNt, .EN{
@@ -65,7 +66,14 @@ body{
 .JP{
     opacity: 0.2;
 }
-
+a:link { 
+    color:white; 
+    text-decoration:none; 
+} 
+a:visited { 
+    color:white; 
+    text-decoration:none; 
+} 
 /*横屏*/
 @media screen and (orientation: landscape){
     #main>span{
